@@ -70,12 +70,11 @@ Computer vision project using **YOLO** for real-time detection/tracking in footb
 
 ## 📬 Contact Me
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/oran-gabi](https://www.linkedin.com/in/oran-gabai-9a5861aa))
-- 📧 orangabai@egmail.com 
-- 🌐 Interactive Portfolio Site -Project Under Development
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oran-gabai-9a5861aa)
+- 📧 oranbai@gmail.com
+- 🌐 Interactive Portfolio Site - Project Under Development
 
 ---
-
 
 
 
