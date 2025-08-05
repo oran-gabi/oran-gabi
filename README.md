@@ -76,10 +76,8 @@ Computer vision project using **YOLO** for real-time detection/tracking in footb
 
 ---
 
-## 🎨 Fun Fact
 
-I once modeled a crown in 3D and painted it gold in Blender.  
-Now I wear it in code. 👑
+
 
 ---
 
