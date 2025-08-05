@@ -2,7 +2,7 @@
 
 > "Code like royalty. Ship like a legend."
 
-![Crown Banner](https://cdn-icons-png.flaticon.com/512/616/616408.png)
+![Crown Banner](https://i.imgur.com/jMZntpQ.png)
 
 ---
 
