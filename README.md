@@ -1,8 +1,8 @@
-# 👑 Oran Gabai
+#  Oran Gabai
 
 > "Code like royalty. Ship like a legend."
 
-![Crown Banner](https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Crown.svg)
+![Crown Banner](https://cdn-icons-png.flaticon.com/512/1046/1046784.png)
 
 ---
 
