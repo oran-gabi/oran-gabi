@@ -2,8 +2,7 @@
 
 > "Code like royalty. Ship like a legend."
 
-![Crown Banner](https://cdn-icons-png.flaticon.com/512/1046/1046784.png)
-
+![Professional Banner](https://img.shields.io/badge/Oran-Gabai-blueviolet?style=for-the-badge&logo=github)
 ---
 
 ## 🧠 About Me
