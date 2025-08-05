@@ -2,7 +2,7 @@
 
 > "Code like royalty. Ship like a legend."
 
-![Crown Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Golden_Crown.svg/320px-Golden_Crown.svg.png)
+![Crown Banner](https://i.imgur.com/WCk7k1x.png)
 
 ---
 
