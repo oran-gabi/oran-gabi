@@ -44,6 +44,13 @@ Always learning. Always building. Always leveling up. 💻✨
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=tokyonight)
 
 ---
+### 🕹️ Contribution Graph (Pac-Man Style)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oran-gabi/oran-gabi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oran-gabi/oran-gabi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oran-gabi/oran-gabi/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 👑 Featured Projects
 
