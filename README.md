@@ -39,11 +39,11 @@ Always learning. Always building. Always leveling up. 💻✨
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oran-gabi&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=tokyonight&hide=html,css" height="180"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oran-gabi&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=oran-gabi&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ### 🕹️ Contribution Graph (Pac-Man Style)
