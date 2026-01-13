@@ -83,7 +83,7 @@ Computer vision project using **YOLO** for real-time detection/tracking in footb
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/oran-gabai-9a5861aa)
 - 📧 oranbai@gmail.com
-- 🌐 Interactive Portfolio Site – ![orangabai-portfolio](https://www.https://orangabai-portfolio.netlify.app/)
+- 🌐 Interactive Portfolio Site – ![orangabai-portfolio](https://orangabai-portfolio.netlify.app/)
 
 ---
 
