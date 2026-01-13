@@ -36,14 +36,15 @@ Always learning. Always building. Always leveling up. 💻✨
 
 ## 🏆 GitHub Trophies
 
-<img src="./assets/trophies.svg"/>
+<img src="https://raw.githubusercontent.com/oran-gabi/oran-gabi/main/assets/trophies.svg"/>
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="./assets/github-stats.svg" height="180"/>
-  <img src="./assets/top-langs.svg" height="180"/>
+  <img src="https://raw.githubusercontent.com/oran-gabi/oran-gabi/main/assets/github-stats.svg" height="180"/>
+  <img src="https://raw.githubusercontent.com/oran-gabi/oran-gabi/main/assets/top-langs.svg" height="180"/>
 </p>
 
 ---
