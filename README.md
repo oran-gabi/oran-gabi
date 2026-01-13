@@ -35,16 +35,16 @@ Always learning. Always building. Always leveling up. 💻✨
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://oran-gabi.github.io/oran-gabi/assets/trophies.svg"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=oran-gabi&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10"/>
+
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://oran-gabi.github.io/oran-gabi/assets/github-stats.svg" height="180"/>
-  <img src="https://oran-gabi.github.io/oran-gabi/assets/top-langs.svg" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oran-gabi&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=tokyonight&hide=html,css" height="180"/>
 </p>
-
 ---
 
 ### 🕹️ Contribution Graph (Pac-Man Style)
