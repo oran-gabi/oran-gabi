@@ -1,0 +1,39 @@
+name: Generate Profile Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Generate GitHub Stats SVG
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api?username=oran-gabi&show_icons=true&count_private=true&theme=tokyonight" \
+          -o assets/github-stats.svg
+
+      - name: Generate Top Languages SVG
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=tokyonight&hide=html,css" \
+          -o assets/top-langs.svg
+
+      - name: Generate GitHub Trophies SVG
+        run: |
+          curl -L "https://github-profile-trophy.vercel.app/?username=oran-gabi&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10" \
+          -o assets/trophies.svg
+
+      - name: Commit SVG files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile stats SVGs"
