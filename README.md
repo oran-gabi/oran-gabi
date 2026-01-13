@@ -36,17 +36,14 @@ Always learning. Always building. Always leveling up. 💻✨
 
 ## 🏆 GitHub Trophies
 
-> ⚠️ *Note: Trophies may not appear in README preview but render correctly on the live profile.*
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=oran-gabi&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="./assets/trophies.svg"/>
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oran-gabi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" height="180"/>
+  <img src="./assets/github-stats.svg" height="180"/>
+  <img src="./assets/top-langs.svg" height="180"/>
 </p>
 
 ---
