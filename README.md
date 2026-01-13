@@ -50,10 +50,11 @@ Always learning. Always building. Always leveling up. 💻✨
 ### 🕹️ Contribution Graph (Pac-Man Style)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://oran-gabi.github.io/oran-gabi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://oran-gabi.github.io/oran-gabi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://oran-gabi.github.io/oran-gabi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oran-gabi/oran-gabi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oran-gabi/oran-gabi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oran-gabi/oran-gabi/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 ## 👑 Featured Projects
