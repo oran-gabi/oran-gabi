@@ -35,7 +35,7 @@ Always learning. Always building. Always leveling up. 💻✨
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oran-gabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-alpha.vercel.app/?username=oran-gabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
