@@ -8,6 +8,9 @@ on:
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
+    # Explicitly grant write permissions to the job
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
