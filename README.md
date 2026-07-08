@@ -35,14 +35,16 @@ Always learning. Always building. Always leveling up. 💻✨
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-fork-two.vercel.app/?username=oran-gabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oran-gabi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oran-gabi&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oran-gabi&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oran-gabi&show_icons=true&theme=prussian&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=oran-gabi&theme=prussian&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=prussian&hide_border=false)
 
 ---
 
