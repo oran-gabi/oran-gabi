@@ -8,19 +8,19 @@ on:
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
-    # Explicitly grant write permissions to the job
     permissions:
       contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophies
-        uses: soulteary/profile-trophy-action@v1.0.0
+      - name: Generate Trophies Card
+        uses: ryo-ma/github-profile-trophy@master
         with:
-          options: 'username=oran-gabi&theme=radical&no-bg=true&no-frame=false&margin-w=4'
-          path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          username: oran-gabi
+          theme: radical
+          output_path: trophy.svg
 
       - name: Commit and Push Changes
         run: |
