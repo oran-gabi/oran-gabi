@@ -1,0 +1,29 @@
+name: Update Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies
+        uses: soulteary/profile-trophy-action@main
+        with:
+          username: oran-gabi
+          theme: radical
+          no-frame: false
+          no-bg: true
+          margin-w: 4
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add trophy.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub trophies" && git push)
