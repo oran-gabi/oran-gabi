@@ -41,12 +41,11 @@ Always learning. Always building. Always leveling up. 💻✨
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oran-gabi&show_icons=true&theme=prussian&hide_border=false)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oran-gabi&show_icons=true&theme=prussian)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=oran-gabi&theme=prussian&hide_border=false)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=prussian)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oran-gabi&layout=compact&theme=prussian&hide_border=false)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=oran-gabi&theme=prussian)
 ---
 
 ### 🕹️ Contribution Graph (Pac-Man Style)
